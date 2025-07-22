@@ -28,3 +28,4 @@ def delay():
 if __name__ == '__main__':
     app.start_time = time.time()
     app.run(host='0.0.0.0', port=5000)
+# 添加一行注释，触发流水线
